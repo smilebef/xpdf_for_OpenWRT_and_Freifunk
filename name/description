@@ -1,0 +1,3 @@
+xpdf is any body always known.
+This version is intended to be without explicit X support.
+We are using only pdftotext.
